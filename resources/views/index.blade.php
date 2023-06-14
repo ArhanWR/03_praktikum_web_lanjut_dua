@@ -66,8 +66,9 @@
                     <div class="overlay"></div>
                     <img src="images/slide1.jpg" alt="">
                     <div class="slider-caption">
-                        <div class="title" style="color: white;">
-                            <h2>@yield('content')</h2>
+                        <div class="title">
+                            <h2>WEB DESIGN</h2>
+                            <h2>INSPIRATION</h2>
                         </div>
                         <a href="#" class="slider-button">Download</a>
                     </div>
@@ -76,8 +77,9 @@
                     <div class="overlay"></div>
                     <img src="images/slide2.jpg" alt="">
                     <div class="slider-caption">
-                        <div class="title" style="color: white;">
-                            <h2>@yield('content')</h2>
+                        <div class="title">
+                            <h2>DEVELOPMENT</h2>
+                            <h2>TEMPLATEMO</h2>
                         </div>
                         <a href="#" class="slider-button">Read More</a>
                     </div>
